@@ -22,6 +22,6 @@
       }
     ],
     "env": {
-      "MONGODB_URI": "mongodb+srv://chetan:chetan@cluster0.a4505.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      "MONGODB_URI": ""
     }
   }
